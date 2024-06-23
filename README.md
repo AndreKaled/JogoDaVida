@@ -17,7 +17,7 @@ As it was one of the questions in the first level of the OBI in 2024 and the onl
 I felt challenged to finalize my algorithm and look for efficient ways to solve it.
 
 ## How to use
-1. Download the JAR file
+1. Download the [JAR file](https://github.com/AndreKaled/JogoDaVida/releases/download/v1.o/JogoDaVida.jar)
 2. Navigate to the location of the downloaded Jar file
 3. Execute the file with the command
    ```cmd
